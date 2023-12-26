@@ -1,0 +1,25 @@
+body 
+{
+    font-family: sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 
+{
+    color: aqua;
+}
+
+#task-list
+{
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #ccc;
+}
+
+#task-form
+{
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #ccc;
+}
